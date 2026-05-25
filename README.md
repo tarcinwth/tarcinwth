@@ -1,183 +1,107 @@
-```
- ████████╗ █████╗ ██████╗  ██████╗██╗███╗   ██╗██╗    ██╗████████╗██╗  ██╗
- ╚══██╔══╝██╔══██╗██╔══██╗██╔════╝██║████╗  ██║██║    ██║╚══██╔══╝██║  ██║
-    ██║   ███████║██████╔╝██║     ██║██╔██╗ ██║██║ █╗ ██║   ██║   ███████║
-    ██║   ██╔══██║██╔══██╗██║     ██║██║╚██╗██║██║███╗██║   ██║   ██╔══██║
-    ██║   ██║  ██║██║  ██║╚██████╗██║██║ ╚████║╚███╔███╔╝   ██║   ██║  ██║
-    ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝╚═╝╚═╝  ╚═══╝ ╚══╝╚══╝    ╚═╝   ╚═╝  ╚═╝
-```
-
 <div align="center">
 
-```
-┌──────────────────────────────────────────────────────────┐
-│  [!] SYSTEM STATUS: ONLINE                               │
-│  [!] OPERATOR: tarcinwth                                 │
-│  [!] LOCATION: 🇧🇷 BRAZIL                                │
-│  [!] PRONOUNS: he/him                                    │
-└──────────────────────────────────────────────────────────┘
-```
+<img src="https://i.pinimg.com/originals/8c/7e/e4/8c7ee49f4c2d4d7fd4a0d6b4e3f1f6f2.gif" width="220"/>
 
-**`v1.0.0 - JUNIOR SOFTWARE ENGINEER - FRONTEND`**
+# tarcinwth
+
+### `junior software engineer`
+frontend developer • minecraft tools • 🇧🇷
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=building+cool+stuff+for+minecraft;react+%2B+typescript+enjoyer;creating+tools+for+communities;probably+committing+at+3am" />
 
 </div>
 
-```bash
-[~] checking environment variables...
-[+] export ROLE="junior software engineer"
-[+] export FOCUS="frontend development"
-[+] export STATUS="probably committing at 3am"
-[+] export STACK="React + TypeScript + Tailwind + Vite"
-[+] export MISSION="building tools for minecraft communities"
-```
-
 ---
 
-## `root@tarcinwth:~# cat ./tech_arsenal.sh`
+## ⚡ about me
 
-```bash
-#!/bin/bash
-# LOADED WEAPONS
+```ts
+const tarcinwth = {
+  role: "frontend developer",
 
-FRONTEND_STACK=(
-    "React.js"
-    "TypeScript" 
+  stack: [
+    "React",
+    "TypeScript",
+    "TailwindCSS",
+    "Vite",
     "JavaScript"
-    "TailwindCSS"
-    "Vite"
-)
+  ],
 
-TOOLS=(
-    "Git"
-    "VSCode"
-    "Vercel"
-    "npm"
-)
+  currentlyBuilding: "minecraft community tools",
 
-STATUS="READY FOR DEPLOYMENT"
+  interests: [
+    "minecraft",
+    "ui design",
+    "automation",
+    "web experiences"
+  ],
+
+  status: "probably committing at 3am"
+}
 ```
+
+---
+
+## 🛠 stack
 
 <div align="center">
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/Tailwind-0f172a?style=for-the-badge&logo=tailwind-css&logoColor=38bdf8)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![React](https://img.shields.io/badge/React-0d1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0d1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0d1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0d1117?style=for-the-badge&logo=tailwind-css&logoColor=38BDF8)
+![Vite](https://img.shields.io/badge/Vite-0d1117?style=for-the-badge&logo=vite&logoColor=A855F7)
 
 </div>
 
 ---
 
-## `root@tarcinwth:~# ls -la /projects/active/`
-
-```
-drwxr-xr-x  3 root root  4096 May 25 03:47 RoyalCraft-Tools/
-│
-├─── [PAYLOAD] 3D Skin Viewer
-├─── [PAYLOAD] Colored Nick Generator  
-├─── [PAYLOAD] Minecraft Calculators
-├─── [PAYLOAD] Tutorials & Guides
-└─── [PAYLOAD] Live Server Status
-```
-
-**PROJECT INFO:**
-```
-[!] TYPE: React + TypeScript Web Application
-[!] TARGET: Minecraft Community (Royal Craft Server)
-[!] DEPLOYMENT: Vercel (ACTIVE)
-[!] STATUS: PRODUCTION READY
-```
+## 👑 main project
 
 <div align="center">
 
-[![ACCESS](https://img.shields.io/badge/ACCESS-00FF00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://royal-craft-tools.vercel.app)
-[![SOURCE](https://img.shields.io/badge/SOURCE-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tarcinwth/RoyalCraft-Tools)
+[![RoyalCraft Tools](https://img.shields.io/badge/RoyalCraft_Tools-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://royal-craft-tools.vercel.app)
 
-</div>
+### tools for minecraft players & servers
 
-> **RoyalCraft Tools:** Central hub with 3D skin viewer, nick colorizer, calculators & more  
-> **Stack:** React • TypeScript • Tailwind • Vite
+> 3D skin viewer • colored nick generator • calculators • tutorials • live server status
 
----
-
-## `root@tarcinwth:~# tail -f /var/log/github_activity.log`
-
-<div align="center">
-
-```
-┌─────────────────[ ACTIVITY MONITOR ]────────────────────┐
-│                                                          │
-│  [~] fetching commit data...                            │
-│  [~] analyzing contribution patterns...                 │
-│  [+] metrics compiled successfully                      │
-│                                                          │
-```
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=tarcinwth&show_icons=true&hide_border=true&count_private=true&title_color=ff0000&icon_color=00ff00&text_color=00ff00&bg_color=0d1117&hide_title=true&border_radius=0&cache_seconds=86400" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcinwth&layout=compact&hide_border=true&title_color=ff0000&text_color=00ff00&bg_color=0d1117&border_radius=0&cache_seconds=86400" />
-
-<img src="https://streak-stats.demolab.com?user=tarcinwth&theme=dark&hide_border=true&ring=ff0000&fire=ff0000&currStreakLabel=ff0000&sideLabels=00ff00&dates=666666&background=0d1117&border_radius=0&stroke=ff0000" />
-
-```
-│  [+] STATUS: ACTIVE                                     │
-│  [+] COMMITS: pushing code at ungodly hours             │
-│  [+] STREAK: maintaining consistency                    │
-└──────────────────────────────────────────────────────────┘
-```
+[![repo](https://img.shields.io/badge/view_source-181717?style=flat-square&logo=github)](https://github.com/tarcinwth/RoyalCraft-Tools)
 
 </div>
 
 ---
 
-## `root@tarcinwth:~# netstat -tulpn | grep ESTABLISHED`
-
-```
-Proto  Recv-Q  Send-Q  Local Address         Foreign Address       State       
-tcp    0       0       0.0.0.0:443          discord.gg:443         ESTABLISHED
-tcp    0       0       0.0.0.0:443          vercel.app:443         ESTABLISHED
-tcp    0       0       0.0.0.0:25565        royalcraft.top:25565   ESTABLISHED
-```
-
-**`[!] ACTIVE CONNECTIONS DETECTED`**
+## 📊 stats
 
 <div align="center">
 
-[![DISCORD](https://img.shields.io/badge/DISCORD-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.royalcraft.top)
-[![TOOLS](https://img.shields.io/badge/TOOLS-00FF00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://royal-craft-tools.vercel.app)
-[![MC_SERVER](https://img.shields.io/badge/MC_SERVER-222222?style=for-the-badge&logo=minecraft&logoColor=white)](https://royalcraft.top)
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=tarcinwth&show_icons=true&hide_border=true&count_private=true&title_color=00ff00&icon_color=00ff00&text_color=ffffff&bg_color=0d1117&hide_title=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcinwth&layout=compact&hide_border=true&title_color=00ff00&text_color=ffffff&bg_color=0d1117"/>
 
 </div>
 
 ---
 
-## `root@tarcinwth:~# cat /etc/motd`
-
-```
-┌──────────────────────────────────────────────────────────┐
-│                                                          │
-│  [!] The author is not responsible for any damage       │
-│  [!] All code is provided AS-IS for education only      │
-│  [!] Unauthorized access to systems is illegal          │
-│                                                          │
-│  ╔════════════════════════════════════════════════╗     │
-│  ║  UPTIME: ∞ days                                ║     │
-│  ║  COMMITS: 1337+                                ║     │
-│  ║  THEME: dark_mode_only=true                    ║     │
-│  ║  COFFEE: consumed in dangerous amounts         ║     │
-│  ╚════════════════════════════════════════════════╝     │
-│                                                          │
-│  root@tarcinwth:~# █                                    │
-│                                                          │
-└──────────────────────────────────────────────────────────┘
-```
+## 🌐 links
 
 <div align="center">
 
-**`[!] WARNING: Viewing this profile in light mode may cause system instability`**  
-**`[!] For optimal experience, ensure dark mode is enabled`**
+[![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.royalcraft.top)
 
-<sub>// if you're reading this in light mode, you're doing it wrong</sub>
+[![website](https://img.shields.io/badge/tools-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://royal-craft-tools.vercel.app)
+
+[![minecraft](https://img.shields.io/badge/mc_server-222?style=for-the-badge&logo=minecraft&logoColor=white)](https://royalcraft.top)
+
+</div>
+
+---
+
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer"/>
+
+<sub>optimized for dark mode 🌑</sub>
 
 </div>
