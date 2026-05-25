@@ -4,7 +4,7 @@
 
 # tarcinwth
 
-### `junior software engineer`
+`junior software engineer`  
 frontend developer • minecraft tools • 🇧🇷
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=00FF00&center=true&vCenter=true&width=500&lines=building+cool+stuff+for+minecraft;react+%2B+typescript+enjoyer;creating+tools+for+communities;probably+committing+at+3am" />
@@ -13,7 +13,7 @@ frontend developer • minecraft tools • 🇧🇷
 
 ---
 
-## ⚡ about me
+## about
 
 ```ts
 const tarcinwth = {
@@ -27,14 +27,7 @@ const tarcinwth = {
     "JavaScript"
   ],
 
-  currentlyBuilding: "minecraft community tools",
-
-  interests: [
-    "minecraft",
-    "ui design",
-    "automation",
-    "web experiences"
-  ],
+  focus: "minecraft community tools",
 
   status: "probably committing at 3am"
 }
@@ -42,7 +35,7 @@ const tarcinwth = {
 
 ---
 
-## 🛠 stack
+## stack
 
 <div align="center">
 
@@ -56,23 +49,21 @@ const tarcinwth = {
 
 ---
 
-## 👑 main project
+## projects
 
 <div align="center">
 
 [![RoyalCraft Tools](https://img.shields.io/badge/RoyalCraft_Tools-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://royal-craft-tools.vercel.app)
 
-### tools for minecraft players & servers
+3D skin viewer • colored nick • calculators • tutorials • live status
 
-> 3D skin viewer • colored nick generator • calculators • tutorials • live server status
-
-[![repo](https://img.shields.io/badge/view_source-181717?style=flat-square&logo=github)](https://github.com/tarcinwth/RoyalCraft-Tools)
+[![repo](https://img.shields.io/badge/source-181717?style=flat-square&logo=github)](https://github.com/tarcinwth/RoyalCraft-Tools)
 
 </div>
 
 ---
 
-## 📊 stats
+## stats
 
 <div align="center">
 
@@ -84,24 +75,16 @@ const tarcinwth = {
 
 ---
 
-## 🌐 links
-
 <div align="center">
 
-[![discord](https://img.shields.io/badge/discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.royalcraft.top)
-
-[![website](https://img.shields.io/badge/tools-00ff00?style=for-the-badge&logo=google-chrome&logoColor=black)](https://royal-craft-tools.vercel.app)
-
-[![minecraft](https://img.shields.io/badge/mc_server-222?style=for-the-badge&logo=minecraft&logoColor=white)](https://royalcraft.top)
+[![discord](https://img.shields.io/badge/discord-5865F2?style=flat-square&logo=discord&logoColor=white)](https://discord.royalcraft.top)
+[![tools](https://img.shields.io/badge/tools-00ff00?style=flat-square&logo=google-chrome&logoColor=black)](https://royal-craft-tools.vercel.app)
+[![server](https://img.shields.io/badge/mc_server-222?style=flat-square&logo=minecraft&logoColor=white)](https://royalcraft.top)
 
 </div>
 
 ---
 
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=00ff00&height=100&section=footer"/>
-
-<sub>optimized for dark mode 🌑</sub>
-
+<sub>dark mode recommended</sub>
 </div>
