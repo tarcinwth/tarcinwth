@@ -7,7 +7,7 @@
 `software engineer • frontend & desktop tools`  
 minecraft ecosystems • electron • typescript
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=FC9803&center=true&vCenter=true&width=480&lines=royal+client;electron+%2B+react+%2B+typescript;crafting+desktop+and+minecraft+tools;committing+at+3am" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=16&pause=1000&color=FC9803&center=true&vCenter=true&width=480&lines=building+royal+client+3.0.0;electron+%2B+react+%2B+typescript;crafting+desktop+and+minecraft+tools;committing+at+3am" />
 
 </div>
 
@@ -62,9 +62,9 @@ launcher & fabric 1.20.4 client • 3d skin/cape studio • sodium & iris • cu
 
 <div align="center">
 
-<img height="155" src="https://github-readme-stats.vercel.app/api?username=tarcinwth&show_icons=true&hide_border=true&count_private=true&title_color=fc9803&icon_color=fc9803&text_color=ffffff&bg_color=111216&hide_title=true"/>
+<img height="155" src="https://github-readme-stats-anuraghazra1.vercel.app/api?username=tarcinwth&show_icons=true&hide_border=true&count_private=true&title_color=fc9803&icon_color=fc9803&text_color=ffffff&bg_color=111216&hide_title=true"/>
 
-<img height="155" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tarcinwth&layout=compact&hide_border=true&title_color=fc9803&text_color=ffffff&bg_color=111216"/>
+<img height="155" src="https://github-readme-stats-anuraghazra1.vercel.app/api/top-langs/?username=tarcinwth&layout=compact&hide_border=true&title_color=fc9803&text_color=ffffff&bg_color=111216"/>
 
 </div>
 
